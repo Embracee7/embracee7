@@ -86,3 +86,12 @@
 </div>
 
 ###
+
+## 📊 Github Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=embracee7&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) <br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=embracee7&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D) <br/>
+
+---
+
+## 🏆 Github Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=embracee7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
