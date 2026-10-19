@@ -95,4 +95,4 @@
 
 ## 🏆 Mes trophées GitHub
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=embracee7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=embracee7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
